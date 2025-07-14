@@ -36,9 +36,12 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-3c5c9a?style=for-the-badge&logo=oauth&logoColor=white)
 
 ### 🗄️ Databases & ORM  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FA7343?style=for-the-badge&logo=typeorm&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TypeORM-FA7343?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
+</div>
 
 ### 🖥️📱 Frontend & Mobile
 <div align="left">
