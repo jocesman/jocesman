@@ -1,5 +1,5 @@
-# 💻 José Céspedes | Backend Developer especializado en NestJS & Node.js  
-🚀 Arquitecturas escalables con impacto real · APIs robustas · PostgreSQL · TypeORM
+# 💻 José Céspedes | Especialidad Back End Developer
+🚀 JavaScript | TypeScript | Nest JS | +8 años en Gestión de Equipos Comerciales
 
 📧 jose.cespedes21@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ing-jose-cespedes/)  
@@ -49,6 +49,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CRON](https://img.shields.io/badge/CRON-000000?style=for-the-badge&logo=clockify&logoColor=white)
+
+### 🔌 Integraciones & Real-Time  
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 ---
 
