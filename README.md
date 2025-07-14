@@ -1,59 +1,99 @@
-# 👋 ¡Hola! Soy José Céspedes
-
-🎯 **Backend Developer** | NestJS · Node.js · JavaScript  
-🚀 Apasionado por crear APIs sólidas, escalables y orientadas a negocio  
-📍 Desde Cartagena, Colombia
-
----
-
-## 💡 Sobre mí
-
-Durante años lideré equipos comerciales en grandes marcas. Hoy, esa experiencia me impulsa a resolver problemas complejos desde el backend con enfoque en resultados, eficiencia y escalabilidad.
-
-🛠️ Disfruto trabajar con:
-- **NestJS** para estructurar servicios robustos
-- **Node.js** + **TypeScript** para soluciones modernas y eficientes
-- **PostgreSQL** y **TypeORM** para persistencia limpia de datos
-- **ReactNative** (actualmente con **TiendApp**, mi app para gestión de pedidos)
-
-🧠 En constante aprendizaje: arquitectura de software, microservicios, patrones backend, testing y DevOps.
-
----
-
-## 🧰 Tech Stack
-#Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-red?style=for-the-badge)
-
-#Mobile
-![ReacNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-#Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📂 Proyectos en desarrollo
-
-🔸 **TiendApp**  
-App móvil + backend para gestión de pedidos en pequeños negocios.  
-Tech: ReactNative + NestJS + PostgreSQL
-
-🔸 Más proyectos pronto...
-
----
-
-## 🤝 Conectemos
+# 💻 José Céspedes | Backend Developer especializado en NestJS & Node.js  
+🚀 Arquitecturas escalables con impacto real · APIs robustas · PostgreSQL · TypeORM
 
 📧 jose.cespedes21@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/josecespedesdev)  
-🚧 ¡Siempre aprendiendo y abierto a nuevas oportunidades!
+🔗 [LinkedIn](https://www.linkedin.com/in/ing-jose-cespedes/)  
+💻 [GitHub](https://github.com/jocesman)
 
 ---
 
-> “La lógica puede llevarte de A a B, la creatividad te puede llevar a cualquier parte.” – Albert Einstein
+## 🔥 Valor diferencial
 
--->
+**Backend Developer** con enfoque full-cycle, integrando visión de negocio, buenas prácticas de arquitectura y experiencia en liderazgo comercial.
+
+- ✅ Liderazgo previo → mejor entendimiento del impacto técnico en KPIs de negocio  
+- ✅ Desarrollo backend robusto con NestJS, Express y PostgreSQL  
+- ✅ Diseño e implementación de APIs RESTful seguras, optimizadas y escalables  
+
+⚙️ *+100 endpoints desarrollados* | *+3 integraciones de terceros* | *Automatización de procesos con CRON y WebSocket*
+
+---
+
+## 🛠 Stack Tecnológico Principal
+
+### 🧠 Backend & APIs  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🧪 Testing & Quality  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🔐 Autenticación & Seguridad  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3c5c9a?style=for-the-badge&logo=oauth&logoColor=white)
+
+### 🗄️ Databases & ORM  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FA7343?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### 💻 Frontend & Mobile  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ DevOps & Automatización  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CRON](https://img.shields.io/badge/CRON-000000?style=for-the-badge&logo=clockify&logoColor=white)
+
+---
+
+## 🏗 Proyectos Destacados
+
+### 🔹 Vitta - Plataforma de Salud Integral (Bootcamp Henry)  
+**Rol:** Backend Developer | Mayo 2025 - Julio 2025  
+**Stack:** Node.js · NestJS · PostgreSQL · React  
+
+**Logros:**  
+✔ Arquitectura RESTful modular con NestJS (+50 endpoints)  
+✔ Integración de pagos con Stripe/PayPal  
+✔ Chat en tiempo real con WebSocket  
+✔ Automatización de tareas con CRON (Node Schedule)  
+✔ API de usuarios con autenticación JWT y TypeORM  
+
+---
+
+### 🔹 TiendApp - App de Gestión de Pedidos (en desarrollo)  
+**Rol:** Full Stack Developer  
+**Stack:** React Native · NestJS · PostgreSQL  
+
+**Características:**  
+- Microservicios con NestJS  
+- Autenticación JWT + control de roles (RBAC)  
+- Optimización de queries con índices PostgreSQL  
+
+---
+
+## 📚 Filosofía de Desarrollo
+
+🧠 **Código como producto:** limpio, documentado y mantenible  
+🎯 **Foco en resultados:** soluciones alineadas con objetivos reales de negocio  
+🔁 **Iteración constante:** aprendizaje continuo en arquitecturas escalables, testing y buenas prácticas  
+🔍 **Calidad de software:** principios SOLID · TDD · diseño limpio
+
+---
+
+## 🌐 Conectemos
+
+📫 jose.cespedes21@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ing-jose-cespedes/)  
+💻 [GitHub](https://github.com/jocesman)
+
+📱 **Disponible para colaboraciones técnicas y oportunidades desafiantes**
+
+> “Creo en el poder del código limpio, bien estructurado y enfocado en resolver problemas reales. Desarrollo backend no es solo arquitectura, es visión, impacto y compromiso.”
+> 
