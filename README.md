@@ -21,18 +21,18 @@ Durante años lideré equipos comerciales en grandes marcas. Hoy, esa experienci
 ---
 
 ## 🧰 Tech Stack
-Backend
-https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/TypeORM-red?style=for-the-badge
+#Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-red?style=for-the-badge)
 
-Mobile
-https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
+#Mobile
+![ReacNative](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-Tools
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+#Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
