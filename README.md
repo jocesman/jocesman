@@ -79,6 +79,20 @@
 
 ---
 
+### 🔹 Ecommerce API – Infraestructura Backend para Tienda Virtual  
+🌐 [Ver API desplegada](https://ecommerce-z8q4.onrender.com/api)  
+**Rol:** Backend Developer  
+**Stack:** NestJS · PostgreSQL · Swagger · TypeORM  
+
+**Highlights técnicos:**  
+- +60 endpoints RESTful con arquitectura escalable y modular  
+- Documentación completa con Swagger (OpenAPI)  
+- Gestión de usuarios, productos, pedidos y pagos  
+- Seguridad JWT y control de errores global  
+- Base sólida para integración con frontend web o móvil
+  
+---
+
 ### 🔹 TiendApp - App de Gestión de Pedidos (en desarrollo)  
 **Rol:** Full Stack Developer  
 **Stack:** React Native · NestJS · PostgreSQL  
