@@ -1,5 +1,5 @@
 # 💻 José Céspedes | Backend Developer
-🚀 Especialista en JavaScript | TypeScript | NestJS | +8 años en liderazgo comercial  
+🚀 JavaScript | TypeScript | NestJS | React | React Native | +8 años en liderazgo comercial  
 📧 jose.cespedes21@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ing-jose-cespedes/) | 💻 [GitHub](https://github.com/jocesman)
    
   ---
